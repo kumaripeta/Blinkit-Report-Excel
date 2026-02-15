@@ -8,8 +8,11 @@ The goal of this project is to analyze sales trends and generate business insigh
 KPIs
 
 Total Sales – $1.20M
+
 Total Number of Items – 8,523
+
 Average Rating – 3.9
+
 Average Sales per Item – 141
 
 Dashboard Features
